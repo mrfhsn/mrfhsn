@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrfhsn
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++ & web development
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on nothing 
 - 📫 How to reach me : mrfhsn253@gmail.com
 
 <!---
