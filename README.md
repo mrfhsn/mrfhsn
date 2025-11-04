@@ -57,7 +57,7 @@ I'm a backend-focused developer who enjoys turning complex problems into simple,
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=mrfhsn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=mrfhsn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=C9D1D9" alt="GitHub Stats" />
   <!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrfhsn&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" alt="GitHub Streak" /> -->
 </div>
 
