@@ -1,10 +1,19 @@
 # Hi, I'm MD. Maruf Hasan 👋
 
-### Backend Developer | Competitive Programmer | Problem Solver
+### Backend Developer | Competitive Programmer | Problem Solver | Cloud Enthusiast | Undergraduate Student
 
+I'm a backend developer who enjoys turning complex problems into simple, reliable systems. I build production-ready APIs, optimize data models for performance, and design cloud-native solutions using modern tooling and serverless patterns. Currently exploring scalable architectures on AWS and Cloudflare, sharpening algorithmic skills through competitive programming, and contributing to open-source projects.
 
-I'm a backend-focused developer who enjoys turning complex problems into simple, reliable systems. I build production-ready APIs, optimize data models for performance, and design cloud-native solutions using modern tooling and serverless patterns. Currently exploring scalable architectures on AWS and Cloudflare, sharpening algorithmic skills through competitive programming, and contributing to open-source projects.
+<!-- --- -->
 
+## 💼 Current Focus
+
+- 🔧 Building RESTful APIs with Node.js, Express/Hono.
+- 📚 Learning advanced backend patterns, system design, and cloud architecture
+- 📚 Learning Database design and optimization techniques
+- ⚡ Exploring serverless architecture with AWS Lambda and Cloudflare Workers
+- 🧠 Sharpening problem-solving skills on competitive programming platforms
+- 🎯 Working towards contributing to open-source backend projects
 
 <!-- --- -->
 
@@ -68,29 +77,24 @@ I'm a backend-focused developer who enjoys turning complex problems into simple,
 
 <!-- --- -->
 
+<!-- 
 ## ⚙️ Production
 
 - PaperLabs — Educational lab report submission platform (In production). I was the backend developer and the designer of the full system (frontend implemented by my friends).
-- Live: https://paperlabs.tech
+- Live: https://paperlabs.tech 
+-->
 
-<!-- --- -->
-
-## 💼 Current Focus
-
-- 🔧 Building RESTful APIs with Node.js, Express/Hono.
-- 📚 Learning advanced backend patterns, system design, and cloud architecture
-- 📚 Learning Database design and optimization techniques
-- ⚡ Exploring serverless architecture with AWS Lambda and Cloudflare Workers
-- 🧠 Sharpening problem-solving skills on competitive programming platforms
-- 🎯 Working towards contributing to open-source backend projects
 
 <!-- --- -->
 
 ## 🤝 Connect With Me
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marufhasan235)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrfhsn253@gmail.com)
+
+<!-- --- -->
+
+## 🏆 Programming Profiles
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Maruf_Hasan235)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/maruf_hasan235)
